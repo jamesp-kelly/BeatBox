@@ -29,6 +29,7 @@ public class BeatBoxFragment extends Fragment {
         setRetainInstance(true);
 
         mBeatBox = new BeatBox(getActivity());
+
     }
 
     @Nullable
